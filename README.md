@@ -64,6 +64,4 @@ DAILY_GOAL = 2000                     # Your daily calorie target (kcal)
 4. Click **Add Entry to Date**
 5. Switch to **Today Log** to review your entries or **Weekly Graph** to see your 7-day trend
 
----
-
-## Project Structure
+-x-o-x-
