@@ -37,7 +37,7 @@ pip install customtkinter requests matplotlib
 
 Then run:
 ```bash
-python diet_tracker.py
+python DIET APP SAP.py
 ```
 
 A `diet.db` file will be created automatically in the same directory on first run.
